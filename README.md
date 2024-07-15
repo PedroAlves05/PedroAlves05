@@ -45,7 +45,5 @@
 
   ##
 
-<div align="center">
-  <br />
   ![Snake animation](https://github.com/PedroAlves05/PedroAlves05/blob/output/github-contribution-grid-snake.svg)
-</div>
+
