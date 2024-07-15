@@ -1,16 +1,25 @@
-## Ola 👋 Meu nome é Pedro
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=PedroAlves05.PedroAlves05" />
 
-- 🔭 Tenho como foco o back-end
-- 🌱 Atualmente estou estudando tecnologias .Net
+<h1 align="center">Ola 👋 Meu nome é Pedro </h1>
+
+<div align="center">
+- 🔭 Tenho como foco o back-end <br />
+- 🌱 Atualmente estou estudando tecnologias .Net <br />
+- 💼 Em busca do meu primeiro emprego na área <br />
 - 📫 Contate-me em: pedrohmingoia@hotmail.com
+</div>
 
-<div>
+  ##
+
+<div align="center">
   <a href="https://github.com/PedroAlves05">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=PedroAlves05&show_icons=true&theme=tokyonight">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAlves05&layout=compact&theme=tokyonight">
 </div>
 
-<div style="display: inline_block"><br>
+  ##
+
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Pedro-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -29,9 +38,14 @@
   
   ##
 
-<div> 
+<div align="center"> 
   <a href="https://www.instagram.com/pedro.alves_05" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-henrique-mingoia-alves-90028626b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![Snake animation](https://github.com/PedroAlves05/PedroAlves05/blob/output/github-contribution-grid-snake.svg)
+  ##
+
+<div align="center">
+  <br />
+  <img alt="snake" src="https://raw.githubusercontent.com/PedroAlves05/PedroAlves05/output/github-contribution-grid-snake.svg" />
+</div>
