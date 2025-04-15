@@ -2,13 +2,12 @@
 
 <h1 align="center">Ola 👋 Meu nome é Pedro </h1>
 
-<div align="center">
-- 🎓 Student of **Análise e Desenvolvimento de Sistemas** at **FATEC Taquaritinga** <br />
-- 💻 Back-End Developer with experience and a strong focus on **Python** <br />
-- 🌍 Selected for the **Intercâmbio Cultural 2024** by Centro Paula Souza and ARINTER, for being recognized for **academic excellence** at FATEC Taquaritinga <br />
-- 🏆 Member of the **best-ranked team in the region** (Ribeirão Preto, Araraquara, Taquaritinga, and others) at **InterFatecs 2024** <br />
-- 📬 Contact me: [pedrohmingoia@hotmail.com](mailto:pedrohmingoia@hotmail.com)
-</div>
+
+🎓 Student of **Análise e Desenvolvimento de Sistemas** at **FATEC Taquaritinga** <br />
+💻 Back-End Developer with experience and a strong focus on **Python** <br />
+🌍 Selected for the **Intercâmbio Cultural 2024** by Centro Paula Souza and ARINTER, for being recognized for **academic excellence** at FATEC Taquaritinga <br />
+🏆 Member of the **best-ranked team in the region** (Ribeirão Preto, Araraquara, Taquaritinga, and others) at **InterFatecs 2024** <br />
+📬 Contact me: [pedrohmingoia@hotmail.com](mailto:pedrohmingoia@hotmail.com)
 
   ##
 
