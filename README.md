@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=PedroAlves05.PedroAlves05" />
 
-<h1 align="center">Ola 👋 Meu nome é Pedro </h1>
+<h1 align="center">Hello 👋 I'm Pedro </h1>
 
 
 🎓 Student of **Análise e Desenvolvimento de Sistemas** at **FATEC Taquaritinga** <br />
